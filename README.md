@@ -9,12 +9,36 @@
 ## Introduction
 The "Simple Food Order Database App" is a 5th-semester Database Management System course project. It is a web application that allows users to interact with a food ordering database. The main objective of this project is to explore and demonstrate the use of SQL queries in a real-world application.
 
+Got it, here's the "Features" section focused on the admin-side features for the "Simple Food Order Database App":
+
 ## Features
-- **Restaurant Menu Management**: Users can view the available menu items, their descriptions, and prices.
-- **Order Placement**: Customers can place orders for the desired menu items.
-- **Order History**: Users can view their past orders and the order status (completed, cancelled, etc.).
-- **Transaction Management**: The application handles transactions, allowing users to commit or rollback their orders.
-- **Index and Relationship Management**: The project includes the creation of indexes and relationships between database tables, such as the `Restaurant-menu` table.
+
+### Admin Features
+
+**Restaurant Management**:
+- Admin can view the list of registered restaurants.
+- Admin can edit the details of existing restaurants, such as name, address, cuisine type, and rating.
+- Admin can create new restaurant entries.
+- Admin can remove restaurants from the system.
+
+**Menu Item Management**:
+- Admin can view the list of available menu items.
+- Admin can edit the details of existing menu items, such as food item name, price, meal type, and cuisine type.
+- Admin can add new menu items to the system.
+- Admin can remove menu items from the system.
+
+**Order Management**:
+- Admin can view the list of all orders placed by users.
+- Admin can edit the details of existing orders, such as delivery address and order status.
+- Admin can mark orders as completed, cancelled, or in progress.
+
+**User Management**:
+- Admin can view the list of registered users.
+- Admin can edit the details of existing user accounts, such as name, phone number, email, and address.
+- Admin can create new user accounts.
+- Admin can deactivate or delete user accounts.
+
+These admin-side features will provide the necessary functionality for the restaurant, menu, order, and user data management within the "Simple Food Order Database App" project.
 
 ## Technologies Used
 - **Backend**: PHP
