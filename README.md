@@ -7,9 +7,7 @@
 
 
 ## Introduction
-The "Simple Food Order Database App" is a 5th-semester Database Management System course project. It is a web application that allows users to interact with a food ordering database. The main objective of this project is to explore and demonstrate the use of SQL queries in a real-world application.
-
-Got it, here's the "Features" section focused on the admin-side features for the "Simple Food Order Database App":
+The "Simple Food Order Database App" is a 5th-semester Database Management System course project. It is a web application that allows users to interact with a food ordering database. The main objective of this project is to explore and demonstrate the use of SQL queries in a real-world application.This application focus only admin managment side futher
 
 ## Features
 
