@@ -9,7 +9,7 @@ CREATE TABLE users(
 	Email VARCHAR(50) NOT NULL,
     Address VARCHAR(50) NOT NULL,
     date TIMESTAMP
-)
+);
 
 CREATE TABLE orders (
     order_id INT AUTO_INCREMENT PRIMARY KEY,
